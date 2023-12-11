@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(99, 24, 170);
+    text-align: center;
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 0px auto;
+} 
+th{
+    text-align:left ;
+    padding: 8px;
+    color: rgb(176, 107, 240);
+}
+
+
+ td {
+    border: 1px solid #151414;
+    text-align: left;
+    padding: 8px;
+    color: whitesmoke;
+ }
+ .t1{
+    color: rgba(245, 153, 5, 0.927);
+
+}
+.t1:hover,.t2:hover,.t3:hover {
+    background-color: rgb(145, 143, 143);
+}
+.t4:hover{
+    background-color: rgb(208, 208, 43);
+}
+ 
+h1{
+    color: white;
+}
+h2{
+    font-size: 20px;
+    color: white
+    
+}
